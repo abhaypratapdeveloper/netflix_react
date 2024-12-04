@@ -1,0 +1,20 @@
+.fot ul{
+    list-style-type:none;
+}
+.fot{
+    display:flex;
+    justify-content: space-between;
+    background-color:black;
+    color:white;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    margin:auto;
+}
+.fot ul li{
+    margin:10px;
+}
+.fott{
+    width:100%;
+    background-color: black;
+    gap:70px;
+}

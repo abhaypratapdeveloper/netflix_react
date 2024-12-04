@@ -1,0 +1,14 @@
+.net{
+  width:90%;
+  margin:auto;
+    display:flex;
+    margin-top: 50px;
+    justify-content: space-between;
+    background-color:#b93d50;
+  }
+.net1{
+  justify-content: center;
+  margin-top:50px;
+  width:50%;
+  font-size: 20px;
+}

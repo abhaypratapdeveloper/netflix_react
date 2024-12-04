@@ -1,0 +1,10 @@
+.cardflex{
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    text-align:center;
+    justify-content:space-evenly;
+    grid-gap: 100px;
+    margin-top: 90px;
+    background-color:#333333;
+    color: white;
+}

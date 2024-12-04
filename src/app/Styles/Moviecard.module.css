@@ -1,0 +1,9 @@
+.button{
+    border-radius:5px;
+}
+.cards{
+    display:flex;
+}
+.card{
+    border:solid black 1px;
+}
